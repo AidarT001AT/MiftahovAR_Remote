@@ -2,3 +2,4 @@
 Console.WriteLine("Hello, World!");
 // Мифтахов Айдар Расилович, Ам-1-24
 //solve task2
+//solve task1
